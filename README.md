@@ -1,9 +1,4 @@
-Requirments:
-wget
-screen
-java jre (for BuildTools)
-git (for BuildTools)
-cron(tab) (if you want this build automatically at set times)
+Requirments: wget, screen, java, git, cron
 
 To install these (excluding java) on a Debian/Ubuntu machine use
 'apt-get install wget screen git cron'
